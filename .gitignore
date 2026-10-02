@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Repositórios clonados pelo script (não devem ir para o git do trabalho acadêmico)
+flask/
+lutris/
+heroic/
+linux/
+
+# Arquivos de dados processados e gráficos gerados
+*.csv
+*.png
